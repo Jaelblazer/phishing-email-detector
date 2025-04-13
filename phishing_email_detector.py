@@ -267,4 +267,4 @@ if st.checkbox("Show Model Metrics"):
     st.pyplot(fig)
 
 st.markdown("***© Copyright 2025. Designed by Edwin and Jael.***")
-st.markdown("***Current date: 2025-04-06 09:45***")
+st.markdown(f"***Current date: {datetime.now().strftime('%Y-%m-%d %H:%M')}***")
