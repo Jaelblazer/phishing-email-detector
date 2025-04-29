@@ -1,0 +1,96 @@
+sender,subject,keywords,label,has_url,has_attachment,timestamp,sender_length
+sender@example.com,New product launch,product launch,legitimate,0,0,2025-03-02 10:15,18
+sender@example.com,Important security update,security update,legitimate,0,1,2025-03-03 14:00,18
+free-prizes@example.com,You won a prize!,prize winner,phishing,1,0,2025-03-04 02:30,23
+fake-banking@example.com,Your account has been compromised,account compromised,phishing,1,1,2025-03-01 23:45,24
+lorent.sinani@student.uni-pr.com,Kerkese,Kerkese,legitimate,0,0,2025-03-05 09:30,32
+free-crypto@bin.cz,You won 10k crypto!,crypto 10k,phishing,1,1,2025-03-06 01:15,18
+security-alert@amazon.co.uk,Payment Rejected,your order is unable to dispatched,phishing,1,0,2025-03-02 03:00,27
+tony.gomez@gmail.com,Important LinkedIN message!,marked as urgent,phishing,0,1,2025-03-03 22:00,20
+jobalerts-noreply@linkedin.com,Linkedin job Alerts,your job alerts for back end developer,legitimate,0,0,2025-03-07 11:45,30
+qzhk@uni-pr.edu,REMINDER,Young Cell Scheme,legitimate,0,1,2025-03-01 16:00,15
+bursat.mashti@gmail.com,lista e perfituesve,STEM,phishing,1,0,2025-03-08 04:15,23
+ks.fiek@student.uni-pr.edu,Njoftim,shpallje per pune praktike,legitimate,0,0,2025-03-04 13:30,26
+lorik.mustafa@gmail.com,Check my new project,Internet Security,phishing,1,0,2025-03-05 20:45,23
+amazon-staff@gmail.com,Urgent notification,validation,phishing,1,1,2025-03-02 00:30,22
+kompjuterika.fiek@hotmail.com,Password reset request,confirm request,legitimate,0,0,2025-03-06 15:00,29
+support@company.com,Welcome to our service,welcome onboard,legitimate,0,1,2025-03-03 10:00,19
+win-lottery@fake.com,Claim your lottery winnings,lottery prize,phishing,1,0,2025-03-07 01:00,20
+noreply@banksecure.com,Account verification required,verify now,legitimate,0,0,2025-03-01 12:15,22
+promo-offer@dealz.com,Exclusive discount offer,discount code,legitimate,1,0,2025-03-04 09:45,21
+urgent@fraudalert.com,Your account is at risk,urgent action,phishing,1,1,2025-03-05 23:00,21
+it-dept@uni-pr.edu,Software update notice,update required,legitimate,0,1,2025-03-02 14:30,18
+gift-card@scam.org,Free $100 gift card,gift card offer,phishing,1,0,2025-03-06 03:15,18
+hr@company.org,Interview scheduled,interview details,legitimate,0,0,2025-03-03 11:00,14
+alert@paypal-security.com,Unusual login attempt,secure account,phishing,1,1,2025-03-07 22:30,25
+info@eduplatform.com,Course enrollment confirmation,enrollment success,legitimate,0,0,2025-03-01 15:45,20
+win-iphone@sweepstake.net,You’ve won an iPhone!,sweepstake win,phishing,1,0,2025-03-04 00:45,25
+support@techfirm.com,Technical support update,support ticket,legitimate,0,1,2025-03-05 13:00,20
+claim-now@bonus.club,Get your bonus now!,bonus claim,phishing,1,0,2025-03-02 02:00,21
+notifications@slack.com,Team update,slack message,legitimate,0,0,2025-03-06 10:30,23
+security@fakebank.com,Update your payment info,payment update,phishing,1,1,2025-03-03 21:15,21
+admin@school.edu,Exam schedule released,exam dates,legitimate,0,0,2025-03-07 16:00,16
+free-trial@scamapp.com,Free trial expiring soon,trial offer,phishing,1,0,2025-03-01 01:30,22
+billing@serviceprovider.com,Invoice for your subscription,invoice due,legitimate,0,1,2025-03-04 14:15,27
+promo@winbig.net,Win a vacation!,vacation prize,phishing,1,0,2025-03-05 23:45,16
+registrar@uni-pr.edu,Registration deadline,register now,legitimate,0,0,2025-03-02 09:00,20
+alert@netflix-security.com,Account suspension notice,account issue,phishing,1,1,2025-03-06 00:15,26
+marketing@shoponline.com,New year sale,sale discount,legitimate,1,0,2025-03-03 12:00,24
+cash-prize@lotteryfake.com,Claim your cash prize!,cash winner,phishing,1,0,2025-03-07 03:30,26
+support@github.com,Repository update,git commit,legitimate,0,0,2025-03-01 15:00,17
+verify@fraudsite.com,Verify your identity now,identity check,phishing,1,1,2025-03-04 22:00,20
+events@community.org,Upcoming event invitation,event RSVP,legitimate,0,0,2025-03-05 11:30,20
+urgent@tax-scam.com,Tax refund pending,refund claim,phishing,1,0,2025-03-02 01:45,19
+info@trainingplatform.com,Training session reminder,training schedule,legitimate,0,1,2025-03-06 13:15,25
+win-car@fakecontest.com,You won a car!,contest winner,phishing,1,0,2025-03-03 23:00,23
+noreply@zoom.us,Meeting invitation,zoom link,legitimate,0,0,2025-03-07 10:00,15
+security@scamalert.com,Password breach detected,breach alert,phishing,1,1,2025-03-01 02:15,22
+admissions@uni-pr.edu,Application status update,admission result,legitimate,0,0,2025-03-04 14:45,21
+free-money@cashapp.net,Get free money now!,cash offer,phishing,1,0,2025-03-05 00:30,22
+notifications@trello.com,Board update,trello task,legitimate,0,0,2025-03-02 16:30,23
+noreply@outlook.com,Calendar event reminder,meeting reminder,legitimate,0,1,2025-03-06 09:15,19
+scam-deal@promo.net,Get 50% off now!,promo scam,phishing,1,0,2025-03-03 21:45,19
+faculty@uni-pr.edu,Class schedule update,schedule change,legitimate,0,0,2025-03-07 13:00,18
+win-tv@fakegiveaway.com,You won a smart TV!,giveaway prize,phishing,1,1,2025-03-01 03:00,23
+support@adobe.com,Subscription renewal notice,renewal due,legitimate,0,1,2025-03-04 15:30,17
+alert@apple-security.com,Device security alert,device compromised,phishing,1,0,2025-03-05 22:15,24
+info@localgym.com,Membership renewal reminder,membership due,legitimate,0,0,2025-03-02 11:00,17
+free-voucher@scamsite.com,Claim your free voucher!,voucher offer,phishing,1,0,2025-03-06 01:00,25
+noreply@dropbox.com,File shared with you,shared file,legitimate,0,0,2025-03-03 14:00,19
+urgent@bank-fraud.com,Confirm your transaction,transaction alert,phishing,1,1,2025-03-07 23:30,21
+advising@college.edu,Academic advising session,advising appointment,legitimate,0,0,2025-03-01 10:45,20
+win-laptop@contestfake.com,You won a laptop!,laptop prize,phishing,1,0,2025-03-04 00:00,26
+support@stripe.com,Payment processed,payment confirmation,legitimate,0,1,2025-03-05 12:15,18
+security@fakeemail.com,Login detected from new device,new login,phishing,1,0,2025-03-02 02:45,22
+events@meetup.com,RSVP to our next event,meetup invite,legitimate,0,0,2025-03-06 15:00,17
+claim-prize@scamco.com,Claim your prize now!,prize claim,phishing,1,1,2025-03-03 21:00,22
+noreply@google.com,Google account activity,account update,legitimate,0,0,2025-03-07 11:30,18
+free-tickets@eventfake.com,Free concert tickets!,ticket offer,phishing,1,0,2025-03-01 03:45,26
+library@uni-pr.edu,Book overdue notice,overdue book,legitimate,0,0,2025-03-04 13:45,18
+win-cash@lottery-scam.com,You’re a cash winner!,cash prize,phishing,1,0,2025-03-05 22:45,25
+support@microsoft.com,Windows update available,update now,legitimate,0,1,2025-03-02 09:30,21
+alert@fb-security.com,Facebook account locked,account lock,phishing,1,0,2025-03-06 00:00,21
+info@careerfair.com,Job fair registration,job fair,legitimate,0,0,2025-03-03 12:30,19
+free-points@game-scam.com,Earn free game points!,game points,phishing,1,1,2025-03-07 01:15,25
+registrations@eventbrite.com,Event registration confirmed,registration success,legitimate,0,0,2025-03-01 14:00,28
+urgent@irs-fake.com,Tax payment overdue,tax overdue,phishing,1,0,2025-03-04 23:00,19
+it-support@company.com,Network maintenance scheduled,maintenance notice,legitimate,0,1,2025-03-05 10:00,22
+win-trip@travel-scam.com,Win a free trip!,travel prize,phishing,1,0,2025-03-02 02:15,24
+noreply@asana.com,Task assigned to you,asana task,legitimate,0,0,2025-03-06 15:45,17
+security@paypal-fraud.com,Secure your account now,account security,phishing,1,1,2025-03-03 21:30,25
+admissions@edu.org,Scholarship application update,scholarship status,legitimate,0,0,2025-03-07 13:15,18
+free-gift@scammer.com,Claim your free gift!,gift offer,phishing,1,0,2025-03-01 00:45,21
+support@aws.amazon.com,Billing update,billing notice,legitimate,0,1,2025-03-04 11:00,22
+alert@visa-fraud.com,Card declined,card issue,phishing,1,0,2025-03-05 23:15,20
+info@nonprofit.org,Donation receipt,donation thanks,legitimate,0,0,2025-03-02 14:30,18
+win-gold@fakewin.com,You won gold!,gold prize,phishing,1,0,2025-03-06 01:45,20
+noreply@discord.com,Server invite,discord link,legitimate,0,0,2025-03-03 10:15,19
+urgent@scam-tax.com,Tax audit notice,audit alert,phishing,1,1,2025-03-07 22:00,19
+hr@techcompany.com,Payroll update,payroll notice,legitimate,0,0,2025-03-01 12:00,18
+free-sub@stream-scam.com,Free streaming subscription!,stream offer,phishing,1,0,2025-03-04 03:00,24
+support@zendesk.com,Ticket resolved,ticket update,legitimate,0,1,2025-03-05 15:00,19
+security@fake-app.com,App security breach,app breach,phishing,1,0,2025-03-02 00:15,21
+info@uni-pr.edu,Semester start reminder,semester begin,legitimate,0,0,2025-03-06 11:45,15
+win-watch@luxury-scam.com,Win a luxury watch!,watch prize,phishing,1,0,2025-03-03 23:45,25
+noreply@airbnb.com,Booking confirmation,booking success,legitimate,0,0,2025-03-07 14:00,18
+alert@chase-fraud.com,Account frozen,account freeze,phishing,1,1,2025-03-01 02:30,21
