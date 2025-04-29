@@ -1,0 +1,11 @@
+[33mcommit 45ab912eacace40841ed59c07618d704d065360e[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: jaelblazer <jaelblazer@gmail.com>
+Date:   Sun Apr 13 13:23:51 2025 +0300
+
+    Remove sensitive files and virtual environment
+
+[33mcommit 10c7c3e2c42b5b8ec0bbae5f31fcb8576469d6bd[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Jaelone <atienojael869@gmail.com>
+Date:   Sun Apr 13 11:57:25 2025 +0300
+
+    Initial commit: Phishing Email Detector project setup

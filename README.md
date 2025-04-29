@@ -89,7 +89,40 @@ Our pre-trained model is battle-tested on thousands of emails, featuring:
 
 ## 🤝 Contributing
 
-We welcome contributions! Whether you're fixing bugs, improving documentation, or suggesting new features, your help is appreciated. Check out our [Contributing Guidelines](CONTRIBUTING.md) to get started.
+We love contributions! Here's how you can get involved:
+
+### 🍴 Fork & Improve
+1. Fork this repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+### 🎯 Ways to Contribute
+- 🐛 Report bugs
+- 💡 Suggest new features
+- 📝 Improve documentation
+- 🔧 Fix issues
+- 🎨 Enhance the UI
+- 🤖 Improve the ML model
+
+### 📋 Contribution Guidelines
+- Follow the [Code of Conduct](CODE_OF_CONDUCT.md)
+- Write clear commit messages
+- Update documentation as needed
+- Add tests for new features
+- Keep the code style consistent
+
+### 🏆 First Time Contributors
+If you're new to open source, we've got you covered! Look for issues tagged with:
+- `good first issue`
+- `help wanted`
+- `beginner friendly`
+
+### 💬 Need Help?
+- Open an issue
+- Join our [Discussions](https://github.com/Jaelblazer/phishing-email-detector/discussions)
+- Check out our [Wiki](https://github.com/Jaelblazer/phishing-email-detector/wiki)
 
 ## 📜 License
 

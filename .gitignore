@@ -24,6 +24,7 @@ wheels/
 venv/
 env/
 ENV/
+algorithm/
 
 # IDE
 .idea/
@@ -37,6 +38,7 @@ Thumbs.db
 
 # Project specific
 *.joblib
+*.pkl
 spam_folder.csv
 .env
 .env.local
@@ -47,4 +49,25 @@ spam_folder.csv
 logs/
 
 # Local development
-*.local 
+*.local
+
+# Data directories
+data/raw/
+data/processed/
+!data/sample/
+
+# Sensitive data
+*.csv
+!data/sample/sample_dataset.csv
+
+# Model files
+models/
+*.model
+*.h5
+*.pth
+*.pt
+
+# Configuration
+config/local_config.py
+*.key
+*.pem 
