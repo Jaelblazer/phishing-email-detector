@@ -8,6 +8,29 @@
 
 Repository: https://github.com/Jaelblazer/phishing-email-detector
 
+## 📸 Application Screenshots
+
+### Main Interface
+![Main Interface](Screenshot%20From%202025-04-29%2012-02-36.png)
+
+### Email Analysis
+![Email Analysis](Screenshot%20From%202025-04-29%2012-02-21.png)
+
+### Batch Processing
+![Batch Processing](Screenshot%20From%202025-04-29%2012-02-03.png)
+
+### Results Dashboard
+![Results Dashboard](Screenshot%20From%202025-04-29%2012-00-57.png)
+
+### Model Performance
+![Model Performance](Screenshot%20From%202025-04-29%2012-00-39.png)
+
+### Spam Management
+![Spam Management](Screenshot%20From%202025-04-29%2012-00-25.png)
+
+### Settings Panel
+![Settings Panel](Screenshot%20From%202025-04-29%2011-58-35.png)
+
 ## 🔥 Why This Project?
 
 In today's digital world, phishing attacks are becoming increasingly sophisticated, costing businesses billions annually. Our Phishing Email Detector is your first line of defense, combining the power of machine learning with user-friendly design to protect your inbox from malicious threats.
