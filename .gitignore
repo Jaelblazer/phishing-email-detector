@@ -19,11 +19,13 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+get-pip.py
 
 # Virtual Environment
 venv/
 env/
 ENV/
+.venv/
 algorithm/
 
 # IDE
@@ -47,6 +49,7 @@ spam_folder.csv
 # Logs
 *.log
 logs/
+data_handler.log
 
 # Local development
 *.local
@@ -59,6 +62,9 @@ data/processed/
 # Sensitive data
 *.csv
 !data/sample/sample_dataset.csv
+!phishingdataset.csv
+!phishdataset.csv
+!phishing_dataset.csv
 
 # Model files
 models/
@@ -70,4 +76,8 @@ models/
 # Configuration
 config/local_config.py
 *.key
-*.pem 
+*.pem
+
+# Temporary files
+*.tmp
+*.temp 
