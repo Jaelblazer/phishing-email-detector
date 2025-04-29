@@ -97,8 +97,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Edwin** - Core Developer & ML Expert
-- **Jael** - Full Stack Developer & Security Specialist
+- Edwin
+- Jael
 
 ## 🙏 Acknowledgments
 
